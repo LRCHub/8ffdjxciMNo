@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "饒舌な星",
+  "base_artist": "Albemuth",
+  "createdAt": "2026-04-03T06:29:37.176701Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "饒舌な星",
+      "artist": "Albemuth, 存流, 明透",
+      "has_synced": false,
+      "path": "select/pl_01_饒舌な星_Albemuth,_存流,_明透.txt"
+    }
+  ]
+}
